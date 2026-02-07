@@ -1,3 +1,4 @@
+# WIP 
 # Subway Service Frequency and Passenger Wait Time Simulation
 
 This repository contains a Python-based simulation model that examines the relationship between train service frequency, passenger waiting times, and operational demand in the Toronto subway system. The project uses synthetic passenger arrival data and real station-to-station travel time data to explore trade-offs relevant to transit planning and service optimization.
